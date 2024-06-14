@@ -1,4 +1,4 @@
-public class Program2 {
+public class Program2 { // find the max and min in the array
     public static void main(String[] args) {
         int [] arr = {6,2,3,4,1,9};
         findMinAndMax(arr);
