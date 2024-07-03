@@ -1,4 +1,4 @@
-public class program3 {
+public class program3 { // missing number in the array
     public static void main(String[] args) {
          int [] arr = { 1,2,3,4,5,8,9,10,7};
          int sum1 =0;

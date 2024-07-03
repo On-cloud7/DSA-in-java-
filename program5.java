@@ -1,4 +1,4 @@
-public class program5 {
+public class program5 {// find peak element in the array:
     static int  findpeak(int arr[], int n ){
           if (n==1)
           return 0;

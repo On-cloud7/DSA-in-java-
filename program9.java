@@ -1,4 +1,4 @@
-public class program9 {
+public class program9 {// to find Second largest and second smallest element :
     public static int Secondsmallest(int arr[], int n ){
         if (n<2){
             return -1;

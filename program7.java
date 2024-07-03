@@ -1,4 +1,4 @@
-public class program7 {
+public class program7 {// find pairs in array:
     public static void pairs(int num[]){
         int tp=0;
         for(int i=0;i<num.length;i++){

@@ -1,4 +1,4 @@
-public class program6 {
+public class program6 { // find max second method
     public static int binarySearch(int num[], int key){
         int start=0; int end =num.length-1; 
         while (start<=end) {
