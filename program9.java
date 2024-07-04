@@ -4,8 +4,8 @@ public class program9 {// to find Second largest and second smallest element :
             return -1;
 
         }
-        int small = Integer.MAX_VALUE;
-        int Second_small = Integer.MAX_VALUE;
+        int small = arr[0];
+        int Second_small = arr[0];
         for(int i =0;i<n ;i++){
             if(arr[i]<small){
                 Second_small = small;

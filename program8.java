@@ -1,5 +1,5 @@
 import java.util.*;
-public class pattern8 {
+public class program8 {
     public static int max(int arr[]){
         int max = Integer.MIN_VALUE;
         for(int i =0;i<arr.length;i++){
