@@ -1,4 +1,4 @@
-public class program14 {
+public class program14 {//left rotate the array by one
    
 
 
