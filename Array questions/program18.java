@@ -1,8 +1,9 @@
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Scanner;
 
-class Solution {
-    public int majorityElement(int[] nums) {
+class program18 {
+    public static int majorityElement(int[] nums) {
         int n = nums.length;
         Map<Integer, Integer> map = new HashMap<>();
         
@@ -19,4 +20,10 @@ class Solution {
         
         return 0;
     }
+
+
+public static void main(String[]args){
+    int nums[] = {1,2,3,4,5,6,7,8};
+    System.out.println(majorityElement(nums));
+}
 }
